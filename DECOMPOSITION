@@ -13,7 +13,7 @@ validations X
 
 - test the validations in console X
 
-routing
+routing X
 - make route,
  route for creation
  
@@ -22,7 +22,7 @@ routing
  create method
 
 
- view
+ view Xa
 - make happy/sad paths for insomnia output
 
 
