@@ -6,12 +6,12 @@ beginning shtoof
 - create the User model X
 
 
-validations
+validations X
 
-- make validations for first name, last name
-- BONUS: make weird validations after that
+- make validations for first name, last name X
+- BONUS: make weird validations after that X
 
-- test the validations in console
+- test the validations in console X
 
 routing
 - make route,
