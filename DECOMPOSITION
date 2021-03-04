@@ -1,0 +1,28 @@
+beginning shtoof
+
+- make new rails app X
+- create the db X
+- pushed to Gitub, repo made? X
+- create the User model X
+
+
+validations
+
+- make validations for first name, last name
+- BONUS: make weird validations after that
+
+- test the validations in console
+
+routing
+- make route,
+ route for creation
+ 
+ controller, 
+
+ create method
+
+
+ view
+- make happy/sad paths for insomnia output
+
+
